@@ -6,7 +6,7 @@ This agent detects transactions with high gas used and high gas fee. Use Coingec
 
 ## Supported Chains
 
-- Ethereum Mainnet
+- Ethereum
 
 ## Alerts
 
